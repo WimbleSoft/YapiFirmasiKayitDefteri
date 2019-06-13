@@ -9,5 +9,5 @@
 }
 
 </style>
-          <?php echo '<br><br><br><br><footer id="copyright"><br><br><a href="http://www.teknogenco.com/" target="_blank"><font color="#66781c">TeknoGenco</font></a></footer>';?>
+          <?php echo '<br><br><br><br><footer id="copyright"><br><br><a href="mailto:m.fatihsaglam@outtlok.com" target="_blank"><font color="#66781c">M. Fatih Saglam</font></a></footer>';?>
           </body>
